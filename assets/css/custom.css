@@ -6,7 +6,7 @@ h1.replace {
     text-indent: -9999px;
     height: 10rem;
     background-size: contain !important;
-    background: url(../../images/heading.jpg) no-repeat center;
+    background: url(../../images/heading.png) no-repeat center;
 }
 
 div.inner {
