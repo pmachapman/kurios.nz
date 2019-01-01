@@ -5,10 +5,15 @@
 h1.replace {
     text-indent: -9999px;
     height: 10rem;
+    margin: 0;
     background-size: contain !important;
     background: url(../../images/heading.png) no-repeat center;
 }
 
 div.inner {
     padding-top: 0 !important;
+}
+
+.copyright .image {
+    top: 10px;
 }
