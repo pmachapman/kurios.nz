@@ -17,3 +17,7 @@ div.inner {
 .copyright .image {
     top: 10px;
 }
+
+.image:before {
+    background: none !important;
+}
